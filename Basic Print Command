@@ -1,0 +1,8 @@
+
+#!/usr/bin/env python3
+
+# Prints "Hello, Internet!" to the console.
+# Demonstrates basic Python syntax and standard output.
+
+if __name__ == '__main__':
+    print("Hello, Internet!")
